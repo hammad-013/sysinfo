@@ -4,7 +4,7 @@ A minimal neofetch-like CLI tool built in Bash to display essential system infor
 
 ---
 # Output
-(screenshot.png)[clioutput]
+![clioutput](screenshot.png)
 
 ---
 
