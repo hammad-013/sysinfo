@@ -35,5 +35,5 @@ cp "ANSI Shadow.flg" /usr/share/figlet or /usr/local/share/figlet
 ```
 # Author
 
-Made with ❤ by Hammad
+Made by Hammad
 🔗 GitHub: @hammad-013
